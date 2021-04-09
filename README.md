@@ -3,7 +3,7 @@ Machine Learning Hackathon -
 Supervised learning classification problem of predicting the overall experience of Shinkansen ( Bullet Train) of Japan using XGBoost algorithm.
 
 Approach
-1. Missing value imputation with multivariate imputation by chained equations (MICE) iterative imputer / Replace null values with 
+1. Missing value imputation with multivariate imputation by chained equations (MICE) iterative imputer
 2. One hot encoding for categorical variables
 3. Splitting the data into train and test
 4. Standard Scaling(Optional)
