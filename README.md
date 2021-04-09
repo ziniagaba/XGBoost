@@ -1,5 +1,5 @@
 # XGBoost
-Machine Learning Hackathon -
+Machine Learning Hackathon ( Rank 3)
 Supervised learning classification problem of predicting the overall experience of Shinkansen ( Bullet Train) of Japan using XGBoost algorithm.
 
 Approach
